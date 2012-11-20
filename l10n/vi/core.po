@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # 
-# Translators:
+# Translator
 #   <khanhnd@kenhgiaiphap.vn>, 2012.
 #   <mattheu_9x@yahoo.com>, 2012.
 # Son Nguyen <sonnghit@gmail.com>, 2012.
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ajax/vcategories/add.php:26 ajax/vcategories/edit.php:25
 msgid "Category type not provided."
-msgstr ""
+msgstr "Kiểu danh mục không được cung cấp"
 
 #: ajax/vcategories/add.php:30
 msgid "No category to add?"
@@ -37,18 +37,18 @@ msgstr "Danh mục này đã được tạo :"
 #: ajax/vcategories/favorites.php:24
 #: ajax/vcategories/removeFromFavorites.php:26
 msgid "Object type not provided."
-msgstr ""
+msgstr "Kiểu đối tượng không được cung cấp"
 
 #: ajax/vcategories/addToFavorites.php:30
 #: ajax/vcategories/removeFromFavorites.php:30
 #, php-format
 msgid "%s ID not provided."
-msgstr ""
+msgstr "%s ID không được cung cấp"
 
 #: ajax/vcategories/addToFavorites.php:35
 #, php-format
 msgid "Error adding %s to favorites."
-msgstr ""
+msgstr "Lỗi thêm %s vào mục ưu thích"
 
 #: ajax/vcategories/delete.php:35 js/oc-vcategories.js:136
 msgid "No categories selected for deletion."
@@ -57,7 +57,7 @@ msgstr "Không có thể loại nào được chọn để xóa."
 #: ajax/vcategories/removeFromFavorites.php:35
 #, php-format
 msgid "Error removing %s from favorites."
-msgstr ""
+msgstr "Lỗi xóa %s từ mục ưu thích"
 
 #: js/js.js:243 templates/layout.user.php:59 templates/layout.user.php:60
 msgid "Settings"
@@ -77,11 +77,11 @@ msgstr "{minutes} phút trước"
 
 #: js/js.js:691
 msgid "1 hour ago"
-msgstr ""
+msgstr "1 giờ trước"
 
 #: js/js.js:692
 msgid "{hours} hours ago"
-msgstr ""
+msgstr "{hours} giờ trước"
 
 #: js/js.js:693
 msgid "today"
@@ -125,20 +125,20 @@ msgstr "Hủy"
 
 #: js/oc-dialogs.js:162
 msgid "No"
-msgstr "No"
+msgstr "Không"
 
 #: js/oc-dialogs.js:163
 msgid "Yes"
-msgstr "Yes"
+msgstr "Có"
 
 #: js/oc-dialogs.js:180
 msgid "Ok"
-msgstr "Ok"
+msgstr "Đồng ý"
 
 #: js/oc-vcategories.js:5 js/oc-vcategories.js:85 js/oc-vcategories.js:102
 #: js/oc-vcategories.js:117 js/oc-vcategories.js:132 js/oc-vcategories.js:162
 msgid "The object type is not specified."
-msgstr ""
+msgstr "Kiểu đối tượng không được quy định"
 
 #: js/oc-vcategories.js:95 js/oc-vcategories.js:125 js/oc-vcategories.js:136
 #: js/oc-vcategories.js:195 js/share.js:135 js/share.js:142 js/share.js:525
@@ -148,11 +148,11 @@ msgstr "Lỗi"
 
 #: js/oc-vcategories.js:179
 msgid "The app name is not specified."
-msgstr ""
+msgstr "Tên ứng dụng không được quy định"
 
 #: js/oc-vcategories.js:194
 msgid "The required file {file} is not installed!"
-msgstr ""
+msgstr "Tập tin cần thiết {file} không được cài đặt!"
 
 #: js/share.js:124
 msgid "Error while sharing"
